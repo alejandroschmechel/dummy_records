@@ -1,2 +1,3 @@
-# dummy_records
-### a Sails application
+dummy_records
+
+Track your dummy records

@@ -16,6 +16,9 @@
     },
     "main": "app.js",
     "repository": "",
-    "author": "",
-    "license": ""
+    "author": "Alejandro Schmechel",
+    "license": "BSD-2-Clause",
+    "bugs": {
+      "url": "https://github.com/alejandroschmechel/dummy_records/issues"
+    }
 }
