@@ -1,0 +1,21 @@
+{
+  "name": "dummy_records",
+  "version": "0.0.0",
+  "description": "Track your dummy records",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alejandroschmechel/dummy_records"
+  },
+  "keywords": [
+    "Records",
+    "Dummy",
+    "Track",
+    "Guinness"
+  ],
+  "author": "Alejandro Schmechel",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/alejandroschmechel/dummy_records/issues"
+  }
+}
